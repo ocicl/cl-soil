@@ -1,0 +1,9 @@
+* cl-soil
+
+SOIL image loading library bindings for Common Lisp.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/cbaggers/cl-soil.git |
+| commit  | f27087c                                     |
+| systems | cl-soil                                     |
+|---------+---------------------------------------------|
