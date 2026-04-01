@@ -7,3 +7,4 @@ SOIL image loading library bindings for Common Lisp.
 | commit  | f27087c                                     |
 | systems | cl-soil                                     |
 |---------+---------------------------------------------|
+ 
